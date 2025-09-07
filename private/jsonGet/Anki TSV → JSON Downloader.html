@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Anki TSV → JSON Converter</title>
+</head>
+
+<body>
+  <h1>Anki TSV → JSON Converter (Multiple Words)</h1>
+  <input type="file" id="fileInput">
+  <button id="downloadBtn" disabled>Download JSON</button>
+  <pre id="output"></pre>
+
+  <script>
+    let jsonData = null;
+
+    document.getElementById('fileInput').addEventListener('change', e => {
+      const file = e.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = event => {
+        const text = event.target.result;
+        const lines = text.split(/\r?\n/);
+        const data = [];
+
+        lines.forEach(line => {
+          if (line.startsWith('#') || line.trim() === '') return;
+
+          const cols = line.split('\t');
+          if (cols.length < 2) return;
+
+          const quote = cols[0].trim();
+          const back = cols[1].trim();
+
+          // 複数の word: note を正規表現で抽出
+          const wordNotePairs = [];
+          const regex = /([\w\s'.-]+):\s*([^:]+)/g;
+          let match;
+          while ((match = regex.exec(back)) !== null) {
+            wordNotePairs.push({ word: match[1].trim(), note: match[2].trim() });
+          }
+
+          data.push({ quote, words: wordNotePairs });
+        });
+
+        jsonData = JSON.stringify(data, null, 2);
+        document.getElementById('output').textContent = jsonData;
+        document.getElementById('downloadBtn').disabled = false;
+      };
+
+      reader.readAsText(file);
+    });
+
+    document.getElementById('downloadBtn').addEventListener('click', () => {
+      if (!jsonData) return;
+
+      const blob = new Blob([jsonData], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'data.json';
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+  </script>
+</body>
+
+</html>
