@@ -48,6 +48,8 @@
   .word,
   .definition {
     padding-left: 70px;
+    /* jsonの改行を反映 */
+    white-space: pre-wrap;
   }
 
   .word {
@@ -123,7 +125,7 @@
 
             const defP = document.createElement("p")
             defP.className = "definition"
-            defP.textContent = wordObj.note
+            defP.textContent = wordObj.definition
 
             cardDiv.appendChild(wordP)
             cardDiv.appendChild(defP)

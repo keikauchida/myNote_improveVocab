@@ -8,7 +8,7 @@
         "words": [
           {
             "word": "errand",
-            "note": "short trip to buy or deliver things."
+            "definition": "short trip to buy or deliver things."
           }
         ]
       },
@@ -17,7 +17,7 @@
         "words": [
           {
             "word": "leverage",
-            "note": "power to influence people and get the results you want."
+            "definition": "power to influence people and get the results you want."
           }
         ]
       },
@@ -26,7 +26,7 @@
         "words": [
           {
             "word": "to acquiesce",
-            "note": "to accept or agree to something, often unwilingly."
+            "definition": "to accept or agree to something, often unwilingly."
           }
         ]
       },
@@ -35,7 +35,7 @@
         "words": [
           {
             "word": "there is no call something",
-            "note": "<spoken> used to tell someone that their behavior is wrong and unnecessary."
+            "definition": "<spoken> used to tell someone that their behavior is wrong and unnecessary."
           }
         ]
       },
@@ -44,7 +44,7 @@
         "words": [
           {
             "word": "scattered",
-            "note": "covering a wide area"
+            "definition": "covering a wide area"
           }
         ]
       },
@@ -53,7 +53,7 @@
         "words": [
           {
             "word": "perched",
-            "note": "dried out because of too much heat  quench"
+            "definition": "dried out because of too much heat  quench"
           }
         ]
       },
@@ -62,7 +62,7 @@
         "words": [
           {
             "word": "fortitude",
-            "note": "bravery when dealing with pain or difficulty, especially over a long period"
+            "definition": "bravery when dealing with pain or difficulty, especially over a long period"
           }
         ]
       },
@@ -71,7 +71,7 @@
         "words": [
           {
             "word": "with a mind to...",
-            "note": "someone has a specific plan or ourpose in mind."
+            "definition": "someone has a specific plan or ourpose in mind."
           }
         ]
       },
@@ -80,7 +80,7 @@
         "words": [
           {
             "word": "play it close to the vest",
-            "note": "to be reserved, secretive to oneself. to take no risks; be cautious."
+            "definition": "to be reserved, secretive to oneself. to take no risks; be cautious."
           }
         ]
       },
@@ -89,7 +89,7 @@
         "words": [
           {
             "word": "bearings",
-            "note": "an understanding of directions and positions that helps you know where you are."
+            "definition": "an understanding of directions and positions that helps you know where you are."
           }
         ]
       },
@@ -97,8 +97,8 @@
         "quote": "That night, there was a munity. They marooned Jack on an island left him to die.",
         "words": [
           {
-            "word": "marron",
-            "note": "to leave someone in a place from which they cannot escape."
+            "word": "maroon",
+            "definition": "to leave someone in a place from which they cannot escape."
           }
         ]
       },
@@ -107,7 +107,7 @@
         "words": [
           {
             "word": "but not before",
-            "note": "at a time eariler than, first than, e.g."
+            "definition": "at a time eariler than, first than"
           }
         ]
       },
@@ -116,7 +116,7 @@
         "words": [
           {
             "word": "wade",
-            "note": "to walk through water or other liquid with some effort  acclimate to something"
+            "definition": "to walk through water or other liquid with some effort  acclimate to something"
           }
         ]
       },
@@ -125,7 +125,7 @@
         "words": [
           {
             "word": "hoarding",
-            "note": "to collect large amount of something and keep it for yourself. often in a seacret place.  swag"
+            "definition": "to collect large amount of something and keep it for yourself. often in a seacret place.  swag"
           }
         ]
       },
@@ -134,7 +134,7 @@
         "words": [
           {
             "word": "fall behind",
-            "note": "to fail to do something fast enogh or on time."
+            "definition": "to fail to do something fast enogh or on time."
           }
         ]
       },
@@ -143,7 +143,7 @@
         "words": [
           {
             "word": "mettle",
-            "note": "ability and determination when competing or doing something difficult bravely and determination  determination"
+            "definition": "ability and determination when competing or doing something difficult bravely and determination  determination"
           }
         ]
       },
@@ -152,7 +152,7 @@
         "words": [
           {
             "word": "disportionate",
-            "note": "too great or too small when compared to something else, or not deserving its importance."
+            "definition": "too great or too small when compared to something else, or not deserving its importance."
           }
         ]
       },
@@ -161,7 +161,7 @@
         "words": [
           {
             "word": "astray",
-            "note": "away from the correct path or correct way of doing something."
+            "definition": "away from the correct path or correct way of doing something."
           }
         ]
       },
@@ -170,7 +170,7 @@
         "words": [
           {
             "word": "heathen",
-            "note": "a person who has no religeion or who belongs to a religion that is not christianity, judaism or msrim"
+            "definition": "a person who has no religeion or who belongs to a religion that is not christianity, judaism or msrim"
           }
         ]
       },
@@ -179,7 +179,7 @@
         "words": [
           {
             "word": "lifted",
-            "note": "to end a rule or law  bushel"
+            "definition": "to end a rule or law  bushel"
           }
         ]
       },
@@ -188,7 +188,7 @@
         "words": [
           {
             "word": "feckless",
-            "note": "weak in character and lacking determination.  ingrates"
+            "definition": "weak in character and lacking determination.  ingrates"
           }
         ]
       },
@@ -197,7 +197,7 @@
         "words": [
           {
             "word": "oar",
-            "note": "a long pole with a wide, float part at one end, used for rowing a boat."
+            "definition": "a long pole with a wide, float part at one end, used for rowing a boat."
           }
         ]
       },
@@ -206,7 +206,7 @@
         "words": [
           {
             "word": "godforsaken",
-            "note": "a gidfirsaken place is not attractive and contains nothing interesting or pleasant."
+            "definition": "a gidfirsaken place is not attractive and contains nothing interesting or pleasant."
           }
         ]
       },
@@ -215,11 +215,19 @@
         "words": [
           {
             "word": "What say",
-            "note": "what do you say  run something up"
+            "definition": "what do you say"
           },
           {
-            "word": "to raise a flag into the air on a pole or mast.  truce",
-            "note": "a short interruption in a war or argument, or an agreement to stop fighting or arguing for a period of time.  scurry"
+            "word": "run something up",
+            "definition": "to raise a flag into the air on a pole or mast."
+          },
+          {
+            "word": "truce",
+            "definition": "a short interruption in a war or argument, or an agreement to stop fighting or arguing for a period of time."
+          },
+          {
+            "word": "scurry",
+            "definition": "- to make quickly, with small steps. \n- the act of moving with short, quick steps."
           }
         ]
       },
@@ -228,7 +236,7 @@
         "words": [
           {
             "word": "brig",
-            "note": "a military prison especually one on a US navy ship"
+            "definition": "a military prison especually one on a US navy ship"
           }
         ]
       },
@@ -241,7 +249,7 @@
         "words": [
           {
             "word": "shoals",
-            "note": "a raised area of sand or rocks under the surface of the water."
+            "definition": "a raised area of sand or rocks under the surface of the water."
           }
         ]
       },
@@ -250,16 +258,16 @@
         "words": [
           {
             "word": "See that...",
-            "note": "to make certain that something happens."
+            "definition": "to make certain that something happens."
           }
         ]
       },
       {
-        "quote": "\"Any of you so much as thinks tha word \"\"parley\"\", I'll have your guts for gaeters!\"",
+        "quote": "Any of you so much as thinks tha word \"parley\", I'll have your guts for gaeters!",
         "words": [
           {
             "word": "gut",
-            "note": "the long tube in the body of a person or animal, through which food moves during the process of digesting food."
+            "definition": "the long tube in the body of a person or animal, through which food moves during the process of digesting food."
           }
         ]
       },
@@ -268,7 +276,7 @@
         "words": [
           {
             "word": "shame",
-            "note": "an uncomfotable feeling of guilt or of being ashamed because your own or someone else's bad behavior."
+            "definition": "an uncomfotable feeling of guilt or of being ashamed because your own or someone else's bad behavior."
           }
         ]
       },
@@ -277,7 +285,7 @@
         "words": [
           {
             "word": "conjure",
-            "note": "to make something appear by magic, or as if by magic."
+            "definition": "to make something appear by magic, or as if by magic."
           }
         ]
       },
@@ -286,7 +294,7 @@
         "words": [
           {
             "word": "Seeing that...",
-            "note": "considering or accepting the fact that"
+            "definition": "considering or accepting the fact that"
           }
         ]
       },
@@ -295,7 +303,7 @@
         "words": [
           {
             "word": "barter",
-            "note": "to exchange goods for other things rather than for money.  passage"
+            "definition": "to exchange goods for other things rather than for money.  passage"
           }
         ]
       },
@@ -304,7 +312,7 @@
         "words": [
           {
             "word": "vile",
-            "note": "unpleasant, immoral, and unacceptable.  scoundrels"
+            "definition": "unpleasant, immoral, and unacceptable.  scoundrels"
           }
         ]
       },
@@ -313,16 +321,20 @@
         "words": [
           {
             "word": "helm",
-            "note": "the handle or wheel which controles the direction in which a ship or boat travels"
+            "definition": "the handle or wheel which controles the direction in which a ship or boat travels"
           }
         ]
       },
       {
-        "quote": "\"You will then spend the rest of the voyage contemplating all possible meanings of the phrase \"\"silent as the grave\"\". Do I make myself clear?\"",
+        "quote": "You will then spend the rest of the voyage contemplating all possible meanings of the phrase \"silent as the grave\". Do I make myself clear?",
         "words": [
           {
             "word": "contemplating",
-            "note": "to spend time considering a possible future action, or to considerone partiuler thing for a long time in a serious and quiet way.  silent as the grave"
+            "definition": "to spend time considering a possible future action, or to considerone partiuler thing for a long time in a serious and quiet way."
+          },
+          {
+            "word": "silent as the grave",
+            "definition": "completely silent"
           }
         ]
       },
@@ -331,7 +343,7 @@
         "words": [
           {
             "word": "sit well",
-            "note": "to be something that you agree or are pleased with."
+            "definition": "to be something that you agree or are pleased with."
           }
         ]
       },
@@ -340,7 +352,7 @@
         "words": [
           {
             "word": "oblivion",
-            "note": "the state of being unconsious or lacking awareness of what is happening around you."
+            "definition": "the state of being unconsious or lacking awareness of what is happening around you."
           }
         ]
       },
@@ -349,7 +361,7 @@
         "words": [
           {
             "word": "ambush",
-            "note": "a sudden and surprising attack a person or group by one or more people who had been hiding and waiting for them."
+            "definition": "a sudden and surprising attack a person or group by one or more people who had been hiding and waiting for them."
           }
         ]
       },
@@ -358,7 +370,7 @@
         "words": [
           {
             "word": "lament",
-            "note": "to express sadness and feeling sorry about something."
+            "definition": "to express sadness and feeling sorry about something."
           }
         ]
       },
@@ -367,7 +379,7 @@
         "words": [
           {
             "word": "fret",
-            "note": "to be nerves or worryied.  prick"
+            "definition": "to be nerves or worryied.  prick"
           }
         ]
       },
@@ -376,7 +388,7 @@
         "words": [
           {
             "word": "row",
-            "note": "to cause a boat to move through water by pushing against the water with oars."
+            "definition": "to cause a boat to move through water by pushing against the water with oars."
           }
         ]
       },
@@ -385,7 +397,7 @@
         "words": [
           {
             "word": "fleet",
-            "note": "- a group of ships in a country's navy. - a number of aircraft, buses, cars, or other vehicles under the control of one company or organization."
+            "definition": "- a group of ships in a country's navy. \n- a number of aircraft, buses, cars, or other vehicles under the control of one company or organization."
           }
         ]
       },
@@ -394,7 +406,7 @@
         "words": [
           {
             "word": "flagship",
-            "note": "the ship within a group on which the most important officer sails.  to argue someone"
+            "definition": "the ship within a group on which the most important officer sails.  to argue someone"
           }
         ]
       }
