@@ -28,14 +28,20 @@
     margin-top: 20px;
   }
 
-  .movieTitle,
   .updatedDate {
-    color: rgb(16, 156, 151);
-    font-style: italic;
+    margin-top: 20px;
   }
 
-  .updatedDate {
+  .movieTitle {
+    color: rgb(16, 156, 151);
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .updatedDate,
+  .comment {
     font-size: small;
+    color: rgb(16, 156, 151);
   }
 
   .card {
@@ -106,6 +112,12 @@
         movieP.className = "movieTitle"
         movieP.textContent = list.movie
         quotesContainerDiv.appendChild(movieP)
+
+        //comment
+        const commentP = document.createElement("p")
+        commentP.className = "comment"
+        commentP.textContent = list.comment
+        quotesContainerDiv.appendChild(commentP)
 
         // セリフ
         list.quotes.forEach(quote => {
