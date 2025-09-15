@@ -1,5 +1,323 @@
 [
   {
+    "updatedDate": "2025-09-15",
+    "movie": "Home on the Range",
+    "comment": "It is a classic Disney animated film, but they haven’t made any new 2D animations since then. Why not? I think they could create new ones in the same style while incorporating the themes and ideologies of other princess stories. It could be a whole new Disney animation.",
+    "quotes": [
+      {
+        "quote": "Good morning , Maargaret, What a wonderful surprise to find a fellow bovine joining the ranks.",
+        "words": [
+          {
+            "word": "bovine",
+            "definition": "an animal from the cattle group, which includes cows, buffalo, and bison."
+          },
+          {
+            "word": "joining the ranks of something",
+            "definition": "to become one of a particular large group of people"
+          },
+          {
+            "word": "fellow",
+            "definition": "used to refer to someone who has the same job or interests as you, or is in the same situation as you, (a man, member, teacher/student)"
+          }
+        ]
+      },
+      {
+        "quote": "Don't go near any luaus, though.",
+        "words": [
+          {
+            "word": "luau",
+            "definition": "a Hawaian party or celebration."
+          }
+        ]
+      },
+      {
+        "quote": "Is that ornery horse getting away from you again?",
+        "words": [
+          {
+            "word": "ornery",
+            "definition": "likery to get angry and argue with people"
+          }
+        ]
+      },
+      {
+        "quote": "There're losing monmey with all the cattleman going uder",
+        "words": [
+          {
+            "word": "go under",
+            "definition": "if a comapany goes under, it falls finacially."
+          }
+        ]
+      },
+      {
+        "quote": "You've got the beswt livestock in the country. All you gotta do is just sell off a few of these critters.",
+        "words": [
+          {
+            "word": "livestock",
+            "definition": "animals and birds that are kept on a farm, such as cows, or chickens."
+          },
+          {
+            "word": "critter",
+            "definition": "a creature"
+          }
+        ]
+      },
+      {
+        "quote": "I'm sorry girls. I'm just plumb out of ideas.",
+        "words": [
+          {
+            "word": "plumb",
+            "definition": "exactly straight. completely."
+          }
+        ]
+      },
+      {
+        "quote": "I say we got o town, buttter up that sheriff's horse, and get him to give us more time.",
+        "words": [
+          {
+            "word": "butter up someone",
+            "definition": "to be very kind or friendly to someone or try to please someone, so that person will do what you want them to do."
+          }
+        ]
+      },
+      {
+        "quote": "Shw woulkd be devastated if she found us missing.",
+        "words": [
+          {
+            "word": "devastated (C1)",
+            "definition": "very shocked and upset. completely destroyed."
+          }
+        ]
+      },
+      {
+        "quote": "Lowbrow remarks may work for you, but we prefer the gentle approach.",
+        "words": [
+          {
+            "word": "lowbrow",
+            "definition": "no serius and intended for people who do not know much about these forms of art, or not intelligent and not knowing a lot about such things."
+          }
+        ]
+      },
+      {
+        "quote": "Well, she better stick a sock init soon.",
+        "words": [
+          {
+            "word": "stick a sock inint",
+            "definition": "it means put a sock init: used to tell someone to be quiet or stop making so much noise."
+          }
+        ]
+      },
+      {
+        "quote": "Look, there's no fences. What keeps the people from roaming? --They appear to be domesticated.",
+        "words": [
+          {
+            "word": "roam",
+            "definition": "to walk or travel without any real purpose or direction."
+          },
+          {
+            "word": "domesticated(adj.)",
+            "definition": "brought under human control in order to provide food, power, or company."
+          }
+        ]
+      },
+      {
+        "quote": "The only varmint left is that lowdown, good-for-nothing Alameda Slim.",
+        "words": [
+          {
+            "word": "varmint",
+            "definition": "an annoying or harmlful small animall or insect. an annying child."
+          },
+          {
+            "word": "lowdown",
+            "definition": "the most important facts and information about something."
+          }
+        ]
+      },
+      {
+        "quote": "What's the bounty?",
+        "words": [
+          {
+            "word": "bounty",
+            "definition": "money paid as a reward"
+          }
+        ]
+      },
+      {
+        "quote": "Step lightly. The male of the species can be extremely hostile.",
+        "words": [
+          {
+            "word": "hostile(adj.)",
+            "definition": "showing strong dislike; unfriendly;"
+          }
+        ]
+      },
+      {
+        "quote": "He is definitely bipolar.",
+        "words": [
+          {
+            "word": "bipolar",
+            "definition": "躁鬱"
+          }
+        ]
+      },
+      {
+        "quote": "I'm gonnago nab that rustler, and show Rico I got what it takes.",
+        "words": [
+          {
+            "word": "nab(v.)",
+            "definition": "to take something suddenly, or to catch or arrest a criminal."
+          },
+          {
+            "word": "rustler(n.)",
+            "definition": "a person who steals farm animals."
+          }
+        ]
+      },
+      {
+        "quote": "Now that al his cash cows have disappeared that poor sap's gonna be flat broke. Perfect time for a certain upstanding landowner to step in and take all the land.",
+        "words": [
+          {
+            "word": "sap(n.)",
+            "definition": "a stupid person who can easily be tricked or persuaded to do something."
+          },
+          {
+            "word": "flat broke",
+            "definition": "used to emphasize that someone or something has no money at all."
+          },
+          {
+            "word": "step in",
+            "definition": "to become involved in a difficult situation or argument in order to help find a solution."
+          }
+        ]
+      },
+      {
+        "quote": "But the part of that really warms my heart, is watching those homesteaders suffer.",
+        "words": [
+          {
+            "word": "homesteader",
+            "definition": "someone who goes to live and grow crops on land given by the goverment, especially in the past."
+          }
+        ]
+      },
+      {
+        "quote": "Back in the day, I worked the highfalutinest ranches you ever seen.",
+        "words": [
+          {
+            "word": "highfalutin",
+            "definition": "try to seem very important or serious, but without having a good resoun for doing so and looking silly asa result."
+          },
+          {
+            "word": "ranch",
+            "definition": "a very large farm on which animals are kept, especially in North and South America."
+          }
+        ]
+      },
+      {
+        "quote": "Am I correct in assuming that each and every time we brought a herd back to this seacret lair...",
+        "words": [
+          {
+            "word": "Am I correct in assuming that...",
+            "definition": "〜と考えてcorrectでしょうか？"
+          },
+          {
+            "word": "lair",
+            "definition": "a place where a wild animal lives, often underground and hidden, or a place where a person hides. 巣。"
+          }
+        ]
+      },
+      {
+        "quote": "it doesn't take a cow to figure out they saw the writing on the wall, and flown the coop while the getting was good.",
+        "words": [
+          {
+            "word": "flown",
+            "definition": "fly-flew-flown"
+          },
+          {
+            "word": "coop",
+            "definition": "a cage where small animals are kept."
+          },
+          {
+            "word": "while the getting was good",
+            "definition": "while the going is good; while an oppotunity lasts."
+          }
+        ]
+      },
+      {
+        "quote": "Strutting around with your vulgar show cow behavior.",
+        "words": [
+          {
+            "word": "strut",
+            "definition": "to walk in a proud way trying to look important."
+          },
+          {
+            "word": "vulgar(adj.)",
+            "definition": "not suitable, simple, dignified or beautiful. rude and likely to upset or anger people, especially by refferring to sex and the body in a unpleasant way."
+          }
+        ]
+      },
+      {
+        "quote": "Till some land-grabbing bardit moved in, and flushed us out like yesterday's oatmeal.",
+        "words": [
+          {
+            "word": "bandit",
+            "definition": "a thief with a weapon, especially one belonging to a grooup that attacks people taraveling through the countryside."
+          },
+          {
+            "word": "flush someone/something out",
+            "definition": "to force a person or animal to leave a place where they are hiding."
+          }
+        ]
+      },
+      {
+        "quote": "Protecteing my investments is what I pay this fellow for. Let me present the most traitorous, double-crossing gun for hire that I've ever had the pleasure to call partner, Rico.",
+        "words": [
+          {
+            "word": "traitorous",
+            "definition": "not royal to your own country, social group, beliefs, etc."
+          },
+          {
+            "word": "double-cross",
+            "definition": "a trick in which you deceive someone when you are doing something illegal together or when you are planning to trick someone else together."
+          }
+        ]
+      },
+      {
+        "quote": "but stick with me and you may get to like the other side of the law.",
+        "words": [
+          {
+            "word": "stick with me",
+            "definition": "to continue doing somehting or using someone to do work for you, and not stop or change to something or someone else"
+          },
+          {
+            "word": "get someone to do something",
+            "definition": "to persuade someone to do something"
+          }
+        ]
+      },
+      {
+        "quote": "What is in the cud you're chewing?",
+        "words": [
+          {
+            "word": "cud",
+            "definition": "food that has beem eaten by an animal with more than one stomach, such as a cow"
+          }
+        ]
+      },
+      {
+        "quote": "The same way we fought off those burly barmaids.",
+        "words": [
+          {
+            "word": "burly",
+            "definition": "a burly man is large and strong"
+          },
+          {
+            "word": "barmaid",
+            "definition": "a women who serves drinks in a bar."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "updatedDate": "2025-09-08",
     "movie": "Lilo & Stitch: The Series S1:E9",
     "comment": "They have a fight. This is a new angle episode. Pleakley is as adorable as ever.",

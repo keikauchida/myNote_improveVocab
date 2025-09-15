@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Flashcard JSON Converter</title>
+</head>
+
+<body>
+  <h1>Flashcard JSON Converter</h1>
+  <textarea id="input" rows="10" cols="80" placeholder="ここにテキストを貼り付け"></textarea><br>
+  <button onclick="convert()">変換</button>
+  <button onclick="copyJSON()">コピー</button>
+  <pre id="output"></pre>
+
+  <script>
+    function convert() {
+      const text = document.getElementById("input").value;
+      const lines = text.split("\n");
+      const result = [];
+
+      lines.forEach(line => {
+        line = line.trim();
+        if (!line) return;
+
+        // 行から単語と定義をすべて抽出
+        const wordPattern = /- ([^:]+): ([^-\n]+)/g;
+        const words = [];
+        let match;
+        while ((match = wordPattern.exec(line)) !== null) {
+          words.push({ word: match[1].trim(), definition: match[2].trim() });
+        }
+
+        // 単語がある場合は例文から取り除く
+        let quote = line;
+        if (words.length > 0) {
+          quote = line.replace(/- [^:]+: [^-\n]+/g, "").trim();
+        }
+
+        result.push({ quote, words });
+      });
+
+      const jsonOutput = JSON.stringify(result, null, 2);
+      document.getElementById("output").textContent = jsonOutput;
+    }
+
+    function copyJSON() {
+      const output = document.getElementById("output").textContent;
+      if (!output) return;
+      navigator.clipboard.writeText(output).then(() => {
+        alert("JSONをコピーしました！");
+      }).catch(err => {
+        alert("コピーに失敗しました: " + err);
+      });
+    }
+  </script>
+</body>
+
+</html>
